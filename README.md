@@ -1,18 +1,18 @@
-# Tweet (Android)
+# Twitter Blue
 
 
 
 This is the complete version of the Twitter client that I created for Android. It is 100% open source, the only thing that you will have to do plug in is your own API keys.
 
-I am lucky enough to say that, as a paid app, Tweet (Android) has perched itself at the top of the **top paid social apps** list since it's release in 2014. It has amassed 100,000+ downloads while holding a 4.6 star rating on the Play Store. This app is one of the more successful apps I have ever made and I am open sourcing it as a "thank you" to everyone that has supported my work over the years! It works great and I'm proud to say that it can probably be considered one of the most popular third party Twitter apps.
+I am lucky enough to say that, as a paid app, Twitter Blue has perched itself at the top of the **top paid social apps** list since it's release in 2014. It has amassed 100,000+ downloads while holding a 4.6 star rating on the Play Store. This app is one of the more successful apps I have ever made and I am open sourcing it as a "thank you" to everyone that has supported my work over the years! It works great and I'm proud to say that it can probably be considered one of the most popular third party Twitter apps.
 
 While I will be the first to admit that it is very far from perfect - and a lot of the base code was written when I had no clue what I was doing - it it could be a very cool project to look at for inspiration, implementation details, and contributions.
 
-Enjoy Tweet (Android) for Twitter and let me know what you want to see next!
+Enjoy Twitter Blue for Twitter and let me know what you want to see next!
 
-### Building Tweet (Android)
+### Building Twitter Blue
 
-Before Tweet (Android) will work, you will need to generate some API keys, for Twitter. I will not be distributing my keys.
+Before Twitter Blue will work, you will need to generate some API keys, for Twitter. I will not be distributing my keys.
 
 To get your Twitter API key, go through these steps:
 
@@ -31,7 +31,7 @@ In the `.gitignore` file, I have ignored `secrets.properties` which should conta
 
 This allows me to keep the keys out of source control, but still build the app without any hassle.
 
-There are fields for the Twitter keys, as well as some third party services that Tweet (Android) utilizes. You do not have to generate keys for the third party services. Those services just will not work.
+There are fields for the Twitter keys, as well as some third party services that Twitter Blue utilizes. You do not have to generate keys for the third party services. Those services just will not work.
 
 ##### Providing a Signing Configuration
 
@@ -52,7 +52,7 @@ Please fork this repository and contribute back using [pull requests](https://gi
 
 ## License
 
-    Copyright 2018 Tweet (Android)
+    Copyright 2018 Twitter Blue
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
